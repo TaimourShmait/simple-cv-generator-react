@@ -17,8 +17,7 @@ A straightforward CV creation React application utilizing Bootstrap for styling,
 - **Work experience** entries with position titles, companies, and employment periods.
 - **Component-based architecture** demonstrating React props and state management.
 - **Responsive design** with Bootstrap styling for desktop and mobile views.
-- **Form validation** preventing empty or invalid CV entries.
-- **Dynamic layout rendering** with conditional display based on user data.
+- **Dynamic layout rendering**
 
 ## Technologies Used
 - **React** with TypeScript for component-based UI
